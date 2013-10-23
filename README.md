@@ -1,7 +1,4 @@
-temat
+O pochłaniaczach wilgoci
 =====
 
-tematy
- 
- 
-pochłaniacze wilgoci
+Wszystko na temat pochłaniaczy wilgoci
